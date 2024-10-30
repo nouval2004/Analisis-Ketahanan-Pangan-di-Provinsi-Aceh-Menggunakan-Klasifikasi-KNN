@@ -1,0 +1,1 @@
+# Analisis-Ketahanan-Pangan-di-Provinsi-Aceh-Menggunakan-Klasifikasi-KNN
