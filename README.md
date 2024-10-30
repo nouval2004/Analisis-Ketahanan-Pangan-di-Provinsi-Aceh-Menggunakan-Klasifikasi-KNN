@@ -1,4 +1,4 @@
-# Analisis-Ketahanan-Pangan-di-Provinsi-Aceh-Menggunakan-Klasifikasi-KNN
+# AnalisisKetahananPanganDiProvinsiAcehMenggunakanKlasifikasiKNN
 
 Proyek ini berfokus pada analisis ketahanan pangan di Provinsi Aceh menggunakan metode klasifikasi K-Nearest Neighbors (KNN). Dengan data sembilan indikator ketahanan pangan, proyek ini mengelompokkan wilayah menjadi enam tingkat kerentanan, dari "Sangat Rentan" hingga "Sangat Tahan". Melalui visualisasi, peta ketahanan pangan, dan hasil klasifikasi KNN yang terukur, proyek ini menawarkan rekomendasi berbasis data untuk mendukung kebijakan ketahanan pangan yang lebih baik.
 
